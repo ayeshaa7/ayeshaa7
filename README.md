@@ -4,7 +4,6 @@
 
 <p>
 I am interested in building applications to ease the lives of people with special needs! Open to help and collaborate on any project for people with special needs. 🌱
-<br></br>
 
 I am also open to build websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
 
