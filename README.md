@@ -1,9 +1,12 @@
-<h1 align="center">𝙷ello! 👋 𝙸'𝚖 Ayesha! 😄</h1>
+<h1 align="center">Hello! 👋 I'm Ayesha!😄</h1>
 <h6 align="center"><b>𝙰 self-taught 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛, specializing in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 Node.Js.</h6>
 
 
 <p>I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building projects!
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
+
+  <br></br>
+<br></br>
 
 After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
   
@@ -13,12 +16,6 @@ After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-
-
-
-
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
