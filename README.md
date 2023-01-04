@@ -1,4 +1,4 @@
-<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎,👋 𝙸'𝚖 Ayesha!</h1>
+<h1 align="center">𝙷ello! 👋 𝙸'𝚖 Ayesha! 😄</h1>
 <h6 align="center"><b>𝙰 self-taught 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛, specializing in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 Node.Js.</h6>
 
 
