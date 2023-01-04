@@ -2,7 +2,11 @@
 <h6 align="center"><b>𝙰 self-taught 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛, specializing in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 Node.Js.</h6>
 
 
-<p>I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building projects!
+<p>
+I am interested in building applications to ease the lives of people with special needs. I am inspired to do so and open to any collaboration on the same.
+I am also open to do projects for student entrepreneurs who need websites or applications.
+
+I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building projects!
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
 After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
@@ -10,9 +14,6 @@ After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a
 Machine Learning softwares like Pandas also helped me manipulate and build and view data models at a glance.
 
 <br></br>
-
-I am interested in building applications to ease the lives of people with special needs. I am inspired to do so and open to any collaboration on the same.
-I am also open to do projects for student entrepreneurs who need websites or applications.
 
   
 </p>
