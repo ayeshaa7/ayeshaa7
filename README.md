@@ -12,8 +12,6 @@ Machine Learning softwares like Pandas also helped me manipulate and build and v
   
 </p>
 
-
-<br></br>
 <br></br>
 <br></br>
 
