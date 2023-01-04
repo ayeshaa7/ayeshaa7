@@ -11,7 +11,7 @@ I graduated with a bachelor's in business administration and came across softwar
 
 After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
 <br></br>
-Machine Learning softwares like Pandas also helped me manipulate and build and view data models at a glance.
+Machine Learning softwares like Pandas also helped me manipulate, build and view data models at a glance.
 
 <br></br>
 
