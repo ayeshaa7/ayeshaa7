@@ -3,7 +3,9 @@
 
 
 <p>
-I am interested in building applications to ease the lives of people with special needs. I am inspired to do so and open to any collaboration on the same.
+I am interested in building applications to ease the lives of people with special needs! Open to help and collaborate on any project people with special needs.
+<br></br>
+
 I am also open to build websites and applications for student entrepreneurs, free of charge.
 
 I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building projects!
