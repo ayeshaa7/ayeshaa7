@@ -4,8 +4,8 @@
 
 <p>I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building projects!
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
-  
-I 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚎𝚗𝚛𝚘𝚕𝚕ed 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages. 
+
+After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
   
 </p>
 <br>
