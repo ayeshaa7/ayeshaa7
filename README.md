@@ -3,11 +3,12 @@
 
 
 <p>
-I am interested in building applications to ease the lives of people with special needs! Open to help and collaborate on any project for people with special needs. 🌱
+I am interested in building applications to ease the lives of people with special needs! I am open to helping and collaborating on any project for people with special needs. 🌱
 
-I am also open to build websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
+I am also open to building websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
 
-I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building web development projects!
+I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building web development projects! 🌱
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
 After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
