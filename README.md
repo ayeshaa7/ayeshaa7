@@ -9,11 +9,18 @@ After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a
 <br></br>
 Machine Learning softwares like Pandas also helped me manipulate and build and view data models at a glance.
 
+<br></br>
+
+I am interested in building applications to ease the lives of people with special needs. I am inspired to do so and open to any collaboration on the same.
+I am also open to do projects for student entrepreneurs who need websites or applications.
+
   
 </p>
 
 <br></br>
 <br></br>
+
+
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
@@ -34,3 +41,5 @@ Machine Learning softwares like Pandas also helped me manipulate and build and v
 <li><b>Babel</b></li>
 <br>
 <br></br>
+
+
