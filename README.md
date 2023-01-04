@@ -1,9 +1,9 @@
-<h1 align="center">Hello! 👋 I'm Ayesha!😄</h1>
-<h6 align="center"><b>𝙰 self-taught 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛, specializing in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 Node.Js.</h6>
+<h1 align="center"> Hello! 👋 I'm Ayesha! 😄</h1>
+<h6 align="center"><b>I'm a self-taught full-stack engineer, specializing in Javascript, React 𝚊𝚗𝚍 Node.Js.</h6>
 
 
 <p>
-I am interested in building applications to ease the lives of people with special needs! Open to help and collaborate on any project people with special needs.
+I am interested in building applications to ease the lives of people with special needs! Open to help and collaborate on any project for people with special needs.
 <br></br>
 
 I am also open to build websites and applications for student entrepreneurs, free of charge.
