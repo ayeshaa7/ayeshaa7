@@ -16,6 +16,7 @@ After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a
 Machine Learning softwares like Pandas also helped me manipulate, build and view data models at a glance so I'm very interested in machine learning and AI for data science applications in business.
 
 <br></br>
+<br></br>
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
