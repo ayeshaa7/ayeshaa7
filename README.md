@@ -11,6 +11,7 @@ I graduated with a bachelor's in business administration and came across softwar
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
+<br></br>
 After my javascript course, I enrolled 𝚒𝚗 𝚊 Java, Python, C++, C# and a react and redux courses and built projects using those languages, which made me fall even more in love with engineering!
 <br></br>
 Machine Learning softwares like Pandas also helped me manipulate, build and view data models at a glance so I'm very interested in machine learning and AI for data science applications in business.
