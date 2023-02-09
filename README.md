@@ -21,9 +21,6 @@ Machine Learning softwares like Pandas also helped me manipulate, build and view
 </p>
 
 <br></br>
-<br></br>
-
-
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
