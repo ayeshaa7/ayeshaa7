@@ -3,7 +3,7 @@
 
 
 <p>
-I am interested in building applications to ease the lives of people with special needs! I am open to helping and collaborating on any project for people with special needs. 🌱
+I am interested in building applications to ease the lives of people with special needs! 🌱
 
 I am also open to building websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
 
