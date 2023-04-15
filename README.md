@@ -7,8 +7,6 @@ I am interested in building applications to ease the lives of people with specia
 
 I am also open to building websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
 
-📖 My Background: I graduated with a bachelor's in business administration and came across software engineering at my first job as a digital marketer. I fell in love with building web development projects! 
-
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
 <br></br>
