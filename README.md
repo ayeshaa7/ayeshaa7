@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Ayesha! 😄</h1>
+<h1 align="center"> Hello! I'm Ayesha!👋 </h1>
 <h6 align="center"><b>I'm a self-taught full-stack engineer, specializing in Javascript, React 𝚊𝚗𝚍 Node.Js.</h6>
 
 
