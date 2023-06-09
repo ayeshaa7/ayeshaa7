@@ -6,8 +6,7 @@
 I am interested in building applications to ease the lives of people with special needs! 🌱
 
 I am also open to building websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
-
-<br></br><br></br> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
 <br></br>
 <br></br>
