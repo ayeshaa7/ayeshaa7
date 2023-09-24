@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm Ayesha!👋 </h1>
-<h2>I'm interested in the combination of software and mechanical engineering. </h2>
+<h3>I'm interested in mathematics, physics and the combination of software and mechanical engineering used to build things. </h3>
 <h6 align="center"><b></h6>
 
 
