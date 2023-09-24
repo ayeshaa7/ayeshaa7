@@ -1,11 +1,10 @@
 <h1 align="center"> Hello! I'm Ayesha!👋 </h1>
-<h6 align="center"><b>I'm a self-taught full-stack engineer, specializing in Javascript, React 𝚊𝚗𝚍 Node.Js.</h6>
+<h2>I'm interested in the combination of software and mechanical engineering. </h2>
+<h6 align="center"><b></h6>
 
 
 <p>
-I am interested in building applications to ease the lives of people with special needs! 🌱
 
-I am also open to building websites and applications for student entrepreneurs, FREE OF CHARGE. ⚡😊🤝
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left">
 
 <br></br>
