@@ -19,14 +19,7 @@
 <li><b>𝚁𝚎𝚍𝚞𝚡</b></li>
 <li><b>𝙴𝚡𝚙𝚛𝚎𝚜𝚜</b></li>
 <li><b>𝙽𝚘𝚍𝚎.𝚓𝚜</b></li>
-<li><b>𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻</b></li>
-<li><b>𝙶𝚒𝚝</b></li>
-<li><b>𝙷𝚃𝙼𝙻</b></li>
-<li><b>𝙲𝚂𝚂</b></li>
-<li><b>𝙷𝚎𝚛𝚘𝚔𝚞</b></li>
-<li><b>Webpack</b></li>
-<li><b>Babel</b></li>
-<br>
+      <br>
 <br></br>
 
 
