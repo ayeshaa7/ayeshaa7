@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Ayesha!👋 </h1>
+<h1 align="center"> Hey, I'm Ayesha! </h1>
 <h3>I’m passionate about combining software and mechanical engineering to build intelligent systems. I love developing AI-driven robotics, full-stack applications, and end-to-end solutions that bridge code with hardware </h3>
 <br></br>
 
